@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Dependencies
+node_modules/
+vendor/
+.venv/
+__pycache__/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*

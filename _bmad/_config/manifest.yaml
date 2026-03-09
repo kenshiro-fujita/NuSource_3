@@ -1,0 +1,21 @@
+installation:
+  version: 6.0.4
+  installDate: 2026-03-09T10:46:05.427Z
+  lastUpdated: 2026-03-09T10:46:05.427Z
+modules:
+  - name: core
+    version: 6.0.4
+    installDate: 2026-03-09T10:46:05.427Z
+    lastUpdated: 2026-03-09T10:46:05.427Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.0.4
+    installDate: 2026-03-09T10:46:05.394Z
+    lastUpdated: 2026-03-09T10:46:05.427Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+ides:
+  - claude-code

@@ -11,6 +11,6 @@ project_knowledge: "{project-root}/docs"
 
 # Core Configuration Values
 user_name: Fujita_kenshirou
-communication_language: English
-document_output_language: English
+communication_language: Japanese
+document_output_language: Japanese
 output_folder: _bmad-output
